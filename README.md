@@ -1,3 +1,3 @@
 # sigma-jawad
-this is my  first repository
-author-Malik Jawad
+This is my  first repository.
+Author-Malik Jawad
